@@ -17,3 +17,30 @@ These examples should allow discussion of typical HPC uses cases:
 3. A text analysis/ machine learning example using a sufficiently large data set (~ several GB, larger than might be stored in-memory on a typical desktop PC)
 
 4. A bioinformatics example, such as multiple alignment or multiple current BLASTs
+
+#### Proposed training workflow:
+
+##### 1. Motiovation - case studies
+The training should start with introducting case studies to demonstrate the application and advantages of using HPC for research. The case studies could be roughly divided into two types:
+
+* HPC for complex computatoional problems (*HPC for software*);
+* HPC for large data problems (*HPC for data*).
+
+For
+
+
+##### 2. Why start using HPC?
+
+
+##### 3. Command line for HPC
+
+
+##### 4. HPC Basics
+
+##### 5. HPC Workflow management
+
+##### 6. HPC Hardware
+
+
+
+##### 7. Metrics
