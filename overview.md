@@ -27,17 +27,22 @@ The training should start with introducing case studies to demonstrate the appli
 * HPC for large data problems (*HPC for data*).
 
 
-The suggested case studies would be:
-=======
-For
+##### 1.1 The suggested case studies would be:
 
+Computer parallel:
 
+* Why do we want to parallelize (in this case)?
+* Overwiev of how: 
+		- (discuss threads, message passing) approach
+		- present parallised code
+	
 |HPC for software | HPC for data|
 |-----------------|-------------|
 | Simple FE / GFD 'grid' parallel example (scaling).  | Bioinformatics data manipulation.|
 | Text analysis; machine learning.  |Large scale data analysis in R (parameter sweep) |
 
 These case studies is then used throughout the rest of the training to demonstrate how the end goal of analysing and breaking down the problem as well as writing parallelized algorithm, implementing it  and optimising the code can be achieved.
+
 
 ##### 2. Why start using HPC?
 
@@ -93,6 +98,12 @@ Workflow management
 
 * Scaling up
 * Speeding up
+
+Starting from a serial solution to the compute-parallel problems. Describe concepts of scaling up and speeding up. Measuring speedup for different core counts (1: serial; 2, 4, 8, 16, 32, 64 ...).
+
+Does it scale up lineary and if not, why not? (often a "sweet spot" identified as a bottlenecks, eg. serial parts of code or I/O).
+
+What does *time* actually mean? Wallclock time; system time etc.
 
 ##### 8. HPC vs The Cloud
 
