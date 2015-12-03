@@ -1,6 +1,6 @@
 ### High Performance Computing Carpentry Overview
 
-This document outlines the idea of HPC Carpentry training. This conceptual model has been started by Martin Callaghan (@callaghanmt) from Advanced Research Computing (ARC) at Leeds University. ARC offers [HPC training](http://arc.leeds.ac.uk/training/) for the Leeds students and research staff.
+This document outlines the idea of HPC Carpentry training. This conceptual model has been started by Martin Callaghan ( @callaghanmt ) from Advanced Research Computing (ARC) at Leeds University. ARC offers [HPC training](http://arc.leeds.ac.uk/training/) for the Leeds students and research staff.
 
 The training should start with introducing case studies that are accessible to people from a wide range of research areas.
 
