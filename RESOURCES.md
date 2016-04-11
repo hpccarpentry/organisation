@@ -6,6 +6,7 @@ Please add resources below - ideally via a Pull Request to this repository or by
 * [Texas Advanced Computing Centre Training](https://portal.tacc.utexas.edu/training)
 * [HPC Short Courses for the UK](http://congo.dl.ac.uk:8080/access/content/group/hpc-sc-admin/)
 * [PRACE](http://www.training.prace-ri.eu/material/index.html)
+* [Introduction to Palmetto cluster](http://clemsoncoe.github.io/hpc-workshop/) by Ashwin Trikuta Srinath
 
 
 #### (E-)Books
