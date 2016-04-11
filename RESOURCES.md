@@ -7,6 +7,11 @@ Please add resources below - ideally via a Pull Request to this repository or by
 * [HPC Short Courses for the UK](http://congo.dl.ac.uk:8080/access/content/group/hpc-sc-admin/)
 * [PRACE](http://www.training.prace-ri.eu/material/index.html)
 * [Introduction to Palmetto cluster](http://clemsoncoe.github.io/hpc-workshop/) by Ashwin Trikuta Srinath
+* 
+
+###### Based on HPC-novice in Software Carpentry
+* [Dana Brunson's](https://github.com/dbrunson/hpc-novice)
+
 
 
 #### (E-)Books
